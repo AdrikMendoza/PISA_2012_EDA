@@ -28,3 +28,5 @@ The main purpose of this project is to communicate the finding about the data ex
 **First: When the parent education level is the highest. It is clear that the better is the score of a student.**
 
 **Second: When both parents are present, it is clear that the score is better rather than single parenthood.**
+
+For a deep look with an interactive visualization your can see the finding right here: https://public.tableau.com/app/profile/aldair.mendoza/viz/PISA2012EDA/PISA2012Findings
